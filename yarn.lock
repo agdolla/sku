@@ -2895,6 +2895,23 @@
     csstype "^3.0.7"
     dedent "^0.7.0"
 
+"@vanilla-extract/css@^0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@vanilla-extract/css/-/css-0.4.0.tgz#e04ba48555dfe53dd6f1644f8329ed97908d8e26"
+  integrity sha512-l/QTSijU13NABaFJ83l686QEq9trcLW7DMBzL0NZV+WYVfBZwZo5b+VMfFKRhgtM+21IzMSPwOlp9e/v6t1NDQ==
+  dependencies:
+    "@emotion/hash" "^0.8.0"
+    "@vanilla-extract/private" "^0.1.1"
+    css-selector-parser "^1.4.1"
+    cssesc "^3.0.0"
+    csstype "^3.0.7"
+    dedent "^0.7.0"
+
+"@vanilla-extract/private@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@vanilla-extract/private/-/private-0.1.1.tgz#3948d28141668773dc65c9b08615ac18f475fd03"
+  integrity sha512-80sIzAcjya/b+qradMsIcCGwAxLLqsLDMk8Hj1trJtKZOkz+JMHNi5kHwjy+7nZP84uUzrmUXkvG4gBfqc8LNg==
+
 "@vanilla-extract/webpack-plugin@*":
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/@vanilla-extract/webpack-plugin/-/webpack-plugin-0.1.0.tgz#d0d09db7c32fa4024ee5067d62cec2460c408f45"
